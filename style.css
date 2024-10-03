@@ -1,0 +1,102 @@
+/* IMPOSTAZIONI GENERALI */
+
+/* HEADER */
+
+/* MAIN */
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
+
+header{
+    margin-left: 10% ;
+    margin-right: 10%;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    background-color: rgb(44, 160, 228);
+    text-align: center;
+    align-items: center;
+    color: white;
+    background: linear-gradient(to bottom, rgb(5, 201, 204) 10%, rgb(1, 71, 99) 100%);
+}
+h1{
+    margin-top: 20px;
+}
+header p{
+    margin-top: 10px;  
+}
+.p3{
+    padding-bottom: 20px;
+}
+
+.logo{
+   width: 40%;
+   height: 40%;
+   margin-top: 10px;
+}
+
+main{
+    margin-left: 10% ;
+    margin-right: 10%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid;
+}
+main span{
+    color: magenta;
+}
+li{
+    padding-bottom: 5px;
+    padding-left: 10px;
+}
+
+h2{
+    padding-top: 20px;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+.p1{
+    color: grey;
+}
+
+.caption{
+    text-align: left;
+    font-size: 1.2em;
+}
+
+table{
+    width: 400px;
+    text-align: center;
+    justify-content: left;
+}
+tr{
+    width: 10px;
+}
+thead{
+    font-size: 1.2em;
+}
+td{
+    padding-top: 5px;
+}
+.video{
+    align-items: center;
+    width: 80%;
+    height: 80%;
+}
+
+.box2{
+    width: 50px;
+    min-height: 50px;
+    background-color: grey;
+    text-align: center;
+    align-items: center;
+    color: white;
+ 
+
+}
